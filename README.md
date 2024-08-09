@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Milan Raj</h1>
 <h3 align="center">A passionate Frontend developer & Graphics Designer from India</h3>
 
-<img align="rigth" alt="coding" width="400 src="![image](https://github.com/user-attachments/assets/0283fd5d-d516-403f-87ce-6d7b3dd60c47)
+<img align="rigth" alt="coding" width="400 src="https://github.com/user-attachments/assets/0283fd5d-d516-403f-87ce-6d7b3dd60c47
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milanroy704&label=Profile%20views&color=0e75b6&style=flat" alt="milanroy704" /> </p>
