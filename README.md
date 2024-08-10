@@ -1,4 +1,4 @@
-![logo](https://github.com/milanroy704/milanroy704/blob/main/git-hub.jpg)
+![logo](https://github.com/milanroy704/milanroy704/blob/main/gitgub%20banner%20mi.png)
 <h1 align="center">Hi 👋, I'm Milan Raj</h1>
 <h3 align="center">A passionate Frontend developer & Graphics Designer from India</h3>
 
